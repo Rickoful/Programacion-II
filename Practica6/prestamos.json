@@ -1,0 +1,18 @@
+[
+  {
+    "fechaP": "12/08/2025",
+    "fechaDe": "12/10/2025",
+    "libro": {
+      "titulo": "batman vs superman",
+      "isbn": "982-1-18238427",
+      "autor": {
+        "nombre": "nicola tesla",
+        "nacionalidad": "estado unidense"
+      }
+    },
+    "estudiante": {
+      "codigo": "2345",
+      "nombre": "Carlos Villagran"
+    }
+  }
+]
