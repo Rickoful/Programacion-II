@@ -1,0 +1,20 @@
+[
+  {
+    "idMed": 1,
+    "aniosExperiencia": 12,
+    "nombreMed": "Alvaro",
+    "apellidoMed": "Jimenez"
+  },
+  {
+    "idMed": 2,
+    "aniosExperiencia": 10,
+    "nombreMed": "Carlos",
+    "apellidoMed": "Martinez"
+  },
+  {
+    "idMed": 3,
+    "aniosExperiencia": 13,
+    "nombreMed": "Roger",
+    "apellidoMed": "Alegre"
+  }
+]
